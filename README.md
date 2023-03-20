@@ -28,7 +28,7 @@
    - Aprender box-sizinh
    - Aprender Flexbox
    - Aprender Grid
-- [ ] **JavaScript - Fundamentos**:
+- [x] **JavaScript - Fundamentos**:
    - JavaScript é a linguagem de programação mais popular do mundo e é uma das principais tecnologias da World Wide Web, juntamente com HTML e CSS. Ela possui tipagem dinâmica, orientação a objetos baseada em protótipos e funções de primeira classe. Ela é multi-paradigma e suporta estilos de programação orientados a eventos, funcionais e imperativos.
    - Conhecer os tipos primitivos
    - Declarar variáveis, considerando a diferença entre 'var', 'let' e 'const'
@@ -41,7 +41,7 @@
    - Fazer um CRUD
    - Obter dados de uma API
    - Fazer chamadas assíncronas usando 'Async/Await', 'Promise', etc
-- [ ] **DOM - Fundamentos**:
+- [x] **DOM - Fundamentos**:
    - O Document Object Model (DOM) é uma interface de programação para documentos web. Ele representa a página para que os programas possam alterar a estrutura, o estilo e o conteúdo do documento. O DOM representa o documento como nós e objetos; dessa forma, linguagens de programação podem interagir com a página.
    - Entender como funciona a árvore do DOM
    - Acessar e manipular elementos do HTML e CSS
@@ -49,16 +49,16 @@
    - Inserir um novo elemento na árvore
    - Remover um elemento da árvore
    - Esperar por um evento em certo elemento da página usando 'addEventListener()'
-- [ ] **Acessibilidade em Javascript**:
+- [x] **Acessibilidade em Javascript**:
    - Acessibilidade Digital é a eliminação de barreiras na Web. O conceito pressupõe que os sites e portais sejam projetados de modo que todas as pessoas possam perceber, entender, navegar e interagir de maneira efetiva com as páginas.
    - Escrever código com acessibilidade em mente
-- [ ] **Estratégias de SEO**:
+- [x] **Estratégias de SEO**:
    - SEO significa otimização para motores de busca e que diz respeito as estratégias usadas para ranquear um site dentro de mecanismos de busca como o Yahoo, o Bing e, claro, o mais famoso de todos, o Google.
    - Escolher palavras-chave
    - Entender como o Google classifica páginas
    - Conhecer os fatores de rankeamento
    - Fazer Link Building
-- [ ] **Design Responsivo**:
+- [x] **Design Responsivo**:
    - Ajustar suas páginas para o tamanho da tela do usuário
    - Media queries
    - Conhecer o conceito de Mobile first

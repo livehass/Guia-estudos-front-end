@@ -1,6 +1,6 @@
-# Guia de Estudos Front-End, o que eu estudei para começar
-### Alguns fundamentos não estão em sequencia pois muitos deles aprendemos antes de outros
-| Status | **Itens a ser estudados:** |
+# Guia de Estudos Front-End, o que eu estudei para começar.
+### Alguns fundamentos não estão em sequencia pois muitos deles aprendemos antes de outros!
+
 | :---:  | :---  |
 |**------**|**`HTML HyperText Markup Language - Fundamentos`**|
 | `OK` | Aprender quais tags são necessárias para um HTML básico |
@@ -110,9 +110,22 @@
 |**------**|**`Js - TypeScript - Fundamentos:`**|
 |**------**| TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript. |
 | `pending` | Entender a fundo o que são tipos e a importância da tipagem |
+| `pending` | Aprender o que é o TypeScript, por que foi criado, como ele funciona e sua relação com o JavaScript |
+| `pending` | Conhecer as ferramentas do TypeScript (integração com o editor de código, verificador estático e compilador) |
+| `pending` | Escrever código em TypeScript com suas ferramentas (interfaces, enum, decorators, etc) |
+| `pending` | Desenvolver aplicações em TypeScript |
+|**------**|**`GraphQL`**|
+|**------**|GraphQL é uma linguagem de consulta e manipulação de dados de código aberto para APIs. É considerada uma alternativa para arquiteturas REST|
+| `pending` | Aprender o que é GraphQL e por que foi criado |
+| `pending` | Entender como o GraphQL é utilizado no desenvolvimento de APIs |
+| `pending` | Criar APIs utilizando as bibliotecas e frameworks para GraphQL |
+|**------**|**`Apollo Client`**|
+|**------**|Apollo Client é uma biblioteca abrangente de gerenciamento de estado para JavaScript que permite gerenciar dados locais e remotos com o GraphQL|
+| `pending` | Utilizar o Apollo para criar um servidor GraphQL |
+|**------**|**`Apollo Client`**|
+| `pending` | Conectar com uma API |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
+
 
 

@@ -1,7 +1,9 @@
 # Front-end
-    | Estudados | Topicos de estudos |
-    | --- | --- |
-    |feito|Aprender quais tags são necessárias para um HTML básico|
+    | Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+    |feitog|Aprender quais tags são necessárias para um HTML básico|
    -[x] Criar um parágrafo de texto
    -[x] Exibir uma imagem
    -[x] Conhecer a diferença entre 'h1', 'h2', 'h3', etc

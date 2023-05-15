@@ -207,19 +207,34 @@
 |**------**|A Interface de Linha de Comando (CLI) do Angular é uma ferramenta de interface de linha de comando que você utiliza para inicializar, desenvolver, estruturar e manter aplicações Angular diretamente de um shell de comando.|
 | `pending` | Aprender a sintaxe 'ng [argumento-opcional] [opções]' |
 | `pending` | Conhecer os comandos mais importantes, como 'ng add', 'ng build', 'ng update', 'ng deploy', 'ng new', 'ng test', entre outros |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-
-
-
-
-
-
+|**------**|**`Nível 3 - Angular - Gerenciamento de Estado`**|
+|**------**| Um 'estado' (state) é qualquer dado necessário para reconstruir UI (Interface de Usuário) qualquer momento. A alteração desses dados desencadeará um redesenho da interface do usuário. O gerenciamento do estado é o conceito de adicionar, atualizar, remover e ler esses dedos e seus 'estados' em uma aplicação.|
+| `pending` | Atualizar componentes em tempo real |
+| `pending` | Esperar por alterações em algum componente e executar alterações |
+| `pending` | Usar Redux, NGXS e outros |
+|**------**|**`Angular - Formulários`**|
+|**------**|Um formulário web é uma página online que aceita inserção de dados (inputs) do usuário. É uma página interativa que imita um documento ou formulário em papel, onde os usuários preenchem determinados campos.|
+| `pending` | Criar formulários com Template Forms |
+| `pending` | Criar formulários reativos com Reactive Forms |
+|**------**|**`Angular - Módulos`**|
+|**------**|m módulo (Module), diferentemente de um componente, não controla nenhuma view. Um módulo é constituído de um ou mais componentes. Uma aplicação Angular tem que ter no mínimo um módulo que contenha mínimo um componente (Component).|
+| `pending` | Como usar a classe ngModule |
+| `pending` | Declarar quais componentes podem ser usados por componentes de outros módulos |
+| `pending` | Declarar quais services serão injetados |
+| `pending` | Aprender a modularizar uma aplicação |
+| `pending` | Carregar módulos como Lazy |
+|**------**|**`Angular - Injeção de Dependências`**|
+|**------**|A injeção de dependência permite declarar as dependências de suas classes TypeScript sem cuidar de sua instanciação. Em vez disso, o Angular trata da instanciação para você. Este design pattern permite escrever um código mais testável e flexível.|
+| `pending` | Declarar as dependências de suas classes |
+| `pending` | Injetar dependências em um componente |
+| `pending` | Conhecer os Injection Tokens |
+| `pending` | Configurar providers |
+| `pending` | Entender a Injeção de Dependência Hierárquicai |
+|**------**|**`Angular - Testes`**|
+|**------**|O teste de software é o processo de avaliação e verificação de que um software realmente faz o que deveria fazer. Os benefícios dos testes incluem a prevenção de bugs, a redução dos custos de desenvolvimento e a melhoria do desempenho.|
+| `pending` | Usar testes unitários |
+| `pending` | Usar testes de integração |
+| `pending` | Usar testes de comportamento (behavior) |
+| `pending` | Usar mocks |
+| `pending` | Familiarizar-se com Jasmine e/ou Karma |
 

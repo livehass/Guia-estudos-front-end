@@ -1,6 +1,6 @@
 # Guia de Estudos Front-End, o que eu estudei para começar.
 ### Alguns fundamentos não estão em sequencia pois muitos deles aprendemos antes de outros!
-
+| Status | **Itens a ser estudados:** |
 | :---:  | :---  |
 |**------**|**`HTML HyperText Markup Language - Fundamentos`**|
 | `OK` | Aprender quais tags são necessárias para um HTML básico |
@@ -122,10 +122,37 @@
 |**------**|**`Apollo Client`**|
 |**------**|Apollo Client é uma biblioteca abrangente de gerenciamento de estado para JavaScript que permite gerenciar dados locais e remotos com o GraphQL|
 | `pending` | Utilizar o Apollo para criar um servidor GraphQL |
-|**------**|**`Apollo Client`**|
 | `pending` | Conectar com uma API |
+|**------**|**`Habilidade Auxiliar: Infraestrutura e Back-end`**|
+|**------**|**`Git e GitHub - Fundamentos`**|
+|**------**|Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.|
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+
+
 
 
 

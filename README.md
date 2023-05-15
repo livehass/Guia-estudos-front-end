@@ -1,9 +1,9 @@
 # Guia de Estudos Front-End, o que eu estudei para começar.
 ### Alguns fundamentos não estão em sequencia pois muitos deles aprendemos antes de outros!
 
-| Status | **Itens a ser estudados:** |
+| Status | **Itens que estudo atualmente, direcionado para o framework angular:** |
 | :---:  | :---  |
-|**------**|**`HTML HyperText Markup Language - Fundamentos`**|
+|**------**|**`HTML HyperText Markup Language - Fundamentos:`**|
 | `OK` | Aprender quais tags são necessárias para um HTML básico |
 | `OK` | Criar um parágrafo de texto |
 | `OK` | Exibir uma imagem |
@@ -15,7 +15,7 @@
 | `OK` | Conectar com um arquivo de CSS |
 | `OK` | Criar uma tabela |
 | `OK` | Adicionar IDs e classes |
-|**------**|**`Css Cascading Style Sheets - Fundamentos`**|
+|**------**|**`Css Cascading Style Sheets - Fundamentos:`**|
 | `OK` | Aprender a estrutura visual de uma página, com 'margin' e 'padding' |
 | `OK` | Estabelecer o tamanho com 'width' e 'height' |
 | `OK` | Aprender sobre a posição de um elemento ('static', 'relative' ou 'absolute) |

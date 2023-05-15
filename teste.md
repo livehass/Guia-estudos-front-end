@@ -28,11 +28,11 @@
 | `OK` | Aprender Flexbox |
 | `OK` | Aprender Grid |
 |**------**|**`JavaScript - Fundamentos:`**|
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
+| `OK` | Conhecer os tipos primitivos |
+| `OK` | Declarar variáveis, considerando a diferença entre 'var', 'let' e 'const' |
+| `OK` | Usar estruturas condicionais ('if', 'else') |
+| `OK` | Conhecer os operadores de comparação ('=', '==', '===') |
+| `OK` | Usar estruturas de repetição e laços ('while', 'for') |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 

@@ -1,7 +1,6 @@
 # Guia de Estudos Front-End, o que eu estudei para começar
 | Status | Itens a ser estudados |
 | :---:  | :---  |
-## Guia de Estudos Front-End, o que eu estudei para começar
 |**------**|**`HTML Fundamentos`**|
 | `OK` | Aprender quais tags são necessárias para um HTML básico |
 | `OK` | Criar um parágrafo de texto |
@@ -12,8 +11,8 @@
 | `OK` | Criar uma lista de itens ordenada ou não ordenada |
 | `pending` | Criar uma lista de itens dentro de uma lista suspensa (dropdown list) |
 | `OK` | Conectar com um arquivo de CSS |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
+| `OK` | Criar uma tabela |
+| `OK` | Adicionar IDs e classes |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |

@@ -15,9 +15,17 @@
 | `OK` | Adicionar IDs e classes |
 |**------**|**`Css Cascading Style Sheets - Fundamentos`**|
 | `OK` | Aprender a estrutura visual de uma página, com 'margin' e 'padding' |
+| `OK` | Estabelecer o tamanho com 'width' e 'height' |
+| `OK` | Aprender sobre a posição de um elemento ('static', 'relative' ou 'absolute) |
+| `OK` | Aprender sobre o 'display' de exibição de um elemento ('block', 'inline', 'inline-block') |
+| `OK` | Aprender a posicionar imagens em relação ao texto |
+| `OK` | Aprender sobre alinhamento |
+| `OK` | Aprender sobre estilo de fontes |
+| `OK` | Aprender as diferenças e vantagens de usar as diferentes unidades de medida em CSS (%, relativas, etc) |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
+

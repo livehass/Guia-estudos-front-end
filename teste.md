@@ -1,4 +1,5 @@
 # Guia de Estudos Front-End, o que eu estudei para começar
+### Alguns fundamentos não estão em sequencia pois muitos deles aprendemos antes de outros
 | Status | **Itens a ser estudados:** |
 | :---:  | :---  |
 |**------**|**`HTML HyperText Markup Language - Fundamentos`**|
@@ -86,6 +87,26 @@
 | `pending` | Criar e executar testes |
 **------**|**`Js - Nivel 3 - Estruturas de Dados:`**|
 | `pending` |  No contexto dos computadores, uma estrutura de dados é uma forma específica de armazenar e organizar os dados na memória do computador para que esses dados possam ser facilmente recuperados e utilizados de forma eficiente quando necessário posteriormente. |
+| `pending` | Conhecer as principais estruturas de dados |
+| `pending` | Implementar as principais estruturas de dados |
+**------**|**`Js - Conceitos de Orientação a Objetos:`**|
+| `ok` |  A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo. |
+| `pending` | Como funcionam objetos |
+| `pending` | Criar e utilizar construtores |
+| `pending` | O que são classes |
+| `pending` | Criar e utilizar métodos |
+| `pending` | Como funciona encapsulamento |
+| `pending` | O que é herança |
+| `pending` | O que é polimorfismo |
+| `pending` | Como funcionam interfaces |
+| `pending` |  O que são abstrações |
+**------**|**`Js - JavaScript - Armazenamento:`**|
+| `Re-visit` | Armazenar dados no front-end com localStorage |
+| `Re-visit` | Manipular dados armazenados |
+| `pending` | Persistir dados armazenados |
+**------**|**`Js - JavaScript - Concorrência:`**|
+| `pending` | Programação concorrente é um paradigma de programação para a construção de programas que fazem uso da execução simultânea de várias tarefas computacionais interativas, que podem ser implementadas como programas separados ou como um conjunto de threads criadas por um único programa |
+| `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |

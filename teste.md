@@ -47,11 +47,36 @@
 | `Re-vist` | Remover um elemento da árvore |
 | `ok` | Esperar por um evento em certo elemento da página usando 'addEventListener()' |
 |**------**|**`Js - Acessibilidade em Javascript:`**|
-|**------**|Acessibilidade Digital é a eliminação de barreiras na Web. O conceito pressupõe que os sites e portais sejam projetados de modo que |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
+| `pending` | Escrever código com acessibilidade em mente |
+|**------**|**`Pages - Estratégias de SEO:`**|
+| `pending` | Escolher palavras-chave |
+| `pending` | Entender como o Google classifica páginas |
+| `pending` | Conhecer os fatores de rankeamento |
+| `pending` | Fazer Link Building |
+|**------**|**`Pages - Design Responsivo:`**|
+| `ok` | Ajustar suas páginas para o tamanho da tela do usuário |
+| `Re-visit` | Media queries |
+| `Re-visit` | Conhecer o conceito de Mobile first |
+|**------**|**`Nivel 2 -JavaScript - Callbacks e Promises:`**|
+| `pending` | Aprender em quais situações é necessário o uso de programação assíncrona |
+| `pending` | Fazer chamadas em APIs com `fetch()` |
+**------**|**`Js -JavaScript - Testes:`**|
+| `pending` | Usar testes unitários |
+| `pending` | Usar testes de integração |
+| `pending` | Usar testes de comportamento (behavior) |
+| `pending` | Usar mocks |
+**------**|**`Js - JavaScript - Manipulação de Erros:`**|
+| `pending` |  Conhecer e tratar as exceções mais comuns |
+| `pending` | Saber quais os tipos de erros e em quais situações eles podem ocorrer |
+| `pending` | Entender como o Node.js faz o manejo de erros |
+| `pending` | Usar 'try' e 'catch' para tratamento de erros |
+| `pending` | Em que ocasiões e de que forma utilizar o `throw` |
+| `pending` | Criar exceções específicas de acordo com a necessidade de sua aplicação |
+**------**|**`Js - JavaScript - ES6:`**|
+| `pending` | Conhecer as diferenças dessa versão do JavaScript |
+**------**|**`Js - JavaScript - Modularização:`**|
+| `pending` | Isolar partes do código em módulos |
+| `pending` | Usar import e export |
 | `pending` | Texto Aqui |
 
 

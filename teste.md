@@ -184,7 +184,23 @@
 | `pending` | Utilizar serviços do tipo Resolver |
 | `pending` | Manipular requisições criando serviços do tipo Interceptor |
 |**------**|**`O pattern Observer`**|
-|**------**|**`O pattern Observer`**|
+|**------**|Em engenharia de software, o padrão (pattern) chamado Observer é um padrão de projeto de software no qual um objeto, chamado de sujeito (subject), mantém uma lista de seus dependentes, chamados de observadores (observers), e os notifica automaticamente de qualquer mudança de estado, geralmente chamando um de seus métodos.|
+| `pending` | Entender o que são Design Patterns |
+| `pending` | Atualizar diversos elementos simultaneamente usando Observers |
+| `pending` | Declarar os Subjects |
+| `pending` | Criar programas baseados em eventos |
+|**------**|**`Nível 2 - Angular - Templates`**|
+|**------**|Em Angular, templates são um modelo para um fragmento de uma interface de usuário (IU). Templates são escritos em HTML, e uma sintaxe especial pode ser usada dentro de um template para construir com base em muitas das características do Angular.|
+|**------**|**`Angular - Renderização*`**|
+|**------**|Uma aplicação Angular normal é executada no navegador, renderizando páginas no DOM em resposta às ações do usuário. A Angular Universal executa no servidor, gerando páginas de aplicação estática que mais tarde são inicializadas no cliente.|
+| `pending` | Exibir uma página Angular no navegador |
+| `pending` | Realizar renderização no lado do servidor |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |

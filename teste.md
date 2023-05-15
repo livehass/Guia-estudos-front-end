@@ -77,6 +77,20 @@
 **------**|**`Js - JavaScript - Modularização:`**|
 | `pending` | Isolar partes do código em módulos |
 | `pending` | Usar import e export |
+**------**|**`Js - Versionamento Semântico para Front-end:`**|
+| `pending` | conjunto simples de regras e requisitos que ditam como os números de versão são atribuídos e incrementados |
+| `pending` | Organizar as dependências de um projeto |
+**------**|**`Js - Jest:`**|
+| `pending` | Testar componentes |
+**------**|**`Js - Cypress:`**|
+| `pending` | Criar e executar testes |
+**------**|**`Js - Nivel 3 - Estruturas de Dados:`**|
+| `pending` |  No contexto dos computadores, uma estrutura de dados é uma forma específica de armazenar e organizar os dados na memória do computador para que esses dados possam ser facilmente recuperados e utilizados de forma eficiente quando necessário posteriormente. |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 
 

@@ -1,5 +1,4 @@
-# Guia de Estudos Front-End, o que eu estudei para começar.
-### Alguns fundamentos não estão em sequencia pois muitos deles aprendemos antes de outros!
+## Guia de Estudos Front-End.
 
 | Status | **Itens que estudo atualmente, direcionado para o framework angular:** |
 | :---:  | :---  |

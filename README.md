@@ -1,6 +1,8 @@
 # Front-end
+    | Estudados | Topicos de estudos |
+    | --- | --- |
 
-   -[x] Aprender quais tags são necessárias para um HTML básico
+   |-[x] |Aprender quais tags são necessárias para um HTML básico|
    -[x] Criar um parágrafo de texto
    -[x] Exibir uma imagem
    -[x] Conhecer a diferença entre 'h1', 'h2', 'h3', etc

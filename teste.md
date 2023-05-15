@@ -1,4 +1,4 @@
-| Command | Description |
+| Status | Itens a ser estudados |
 | --- | --- |
-| feito | Aprender quais tags são necessárias para um HTML básico |
-| [x] | Criar um parágrafo de texto |
+| `OK` | Aprender quais tags são necessárias para um HTML básico |
+| `OK` | Criar um parágrafo de texto |

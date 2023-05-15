@@ -33,6 +33,15 @@
 | `OK` | Usar estruturas condicionais ('if', 'else') |
 | `OK` | Conhecer os operadores de comparação ('=', '==', '===') |
 | `OK` | Usar estruturas de repetição e laços ('while', 'for') |
-| `pending` | Texto Aqui |
+| `OK` | Usar funções, passando parâmetros e argumentos |
+| `OK` | Manipular arrays e listas |
+| `OK` | Aprender o conceito de Orientação a Objetos |
+| `OK` | Fazer um CRUD |
+| `OK` | Obter dados de uma API |
+| `pending` |  Fazer chamadas assíncronas usando 'Async/Await', 'Promise', etc |
+|**------**|**`DOM  - O Document Object Model- Fundamentos:`**|
+| `OK` | Entender como funciona a árvore do DOM |
+| `Re-vist` | Acessar e manipular elementos do HTML e CSS |
+| `Re-vist` | Acessar os pais e filhos de um elemento|
 | `pending` | Texto Aqui |
 

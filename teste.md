@@ -43,5 +43,15 @@
 | `OK` | Entender como funciona a árvore do DOM |
 | `Re-vist` | Acessar e manipular elementos do HTML e CSS |
 | `Re-vist` | Acessar os pais e filhos de um elemento|
+| `Re-vist` | Inserir um novo elemento na árvore |
+| `Re-vist` | Remover um elemento da árvore |
+| `ok` | Esperar por um evento em certo elemento da página usando 'addEventListener()' |
+|**------**|**`Js - Acessibilidade em Javascript:`**|
+|**------**|Acessibilidade Digital é a eliminação de barreiras na Web. O conceito pressupõe que os sites e portais sejam projetados de modo que |
 | `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+| `pending` | Texto Aqui |
+
 

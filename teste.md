@@ -22,6 +22,13 @@
 | `OK` | Aprender sobre alinhamento |
 | `OK` | Aprender sobre estilo de fontes |
 | `OK` | Aprender as diferenças e vantagens de usar as diferentes unidades de medida em CSS (%, relativas, etc) |
+| `OK` | Conectar com os elementos (IDs, classes) de um arquivo HTML |
+| `OK` | Alterar características de um elemento quando o mouse passar por cima dele ('hover') |
+| `ok` | Aprender box-sizing |
+| `OK` | Aprender Flexbox |
+| `OK` | Aprender Grid |
+|**------**|**`JavaScript - Fundamentos:`**|
+| `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |

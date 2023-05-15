@@ -1,16 +1,16 @@
 # Front-end
 
-   -[ ] Aprender quais tags são necessárias para um HTML básico
-   -[ ] Criar um parágrafo de texto
-   -[ ] Exibir uma imagem
-   -[ ] Conhecer a diferença entre 'h1', 'h2', 'h3', etc
-   -[ ] Criar um texto com hyperlink
-   -[ ] Criar um formulário com campos relevantes
-   -[ ] Criar uma lista de itens ordenada ou não ordenada
-   -[ ] Criar uma lista de itens dentro de uma lista suspensa (dropdown list)
-   -[ ] Conectar com um arquivo de CSS
-   -[ ] Criar uma tabela
-   -[ ] Adicionar IDs e classes
+   -[x] Aprender quais tags são necessárias para um HTML básico
+   -[x] Criar um parágrafo de texto
+   -[x] Exibir uma imagem
+   -[x] Conhecer a diferença entre 'h1', 'h2', 'h3', etc
+   -[x] Criar um texto com hyperlink
+   -[x] Criar um formulário com campos relevantes
+   -[x] Criar uma lista de itens ordenada ou não ordenada
+   -[x] Criar uma lista de itens dentro de uma lista suspensa (dropdown list)
+   -[x] Conectar com um arquivo de CSS
+   -[x] Criar uma tabela
+   -[x] Adicionar IDs e classes
 - [ ] **CSS - Fundamentos**:   
    -[ ] Aprender a estrutura visual de uma página, com 'margin' e 'padding'
    -[ ] Estabelecer o tamanho com 'width' e 'height'

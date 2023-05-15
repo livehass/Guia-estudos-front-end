@@ -1,6 +1,7 @@
 # Guia de Estudos Front-End, o que eu estudei para começar
 | Status | Itens a ser estudados |
 | :---:  | :---  |
+## Guia de Estudos Front-End, o que eu estudei para começar
 |**------**|**`HTML Fundamentos`**|
 | `OK` | Aprender quais tags são necessárias para um HTML básico |
 | `OK` | Criar um parágrafo de texto |

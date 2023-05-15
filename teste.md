@@ -126,6 +126,65 @@
 |**------**|**`Habilidade Auxiliar: Infraestrutura e Back-end`**|
 |**------**|**`Git e GitHub - Fundamentos`**|
 |**------**|Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.|
+| `OK | GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git. |
+| `OK` | Criar um repositório|
+| `OK` | Clonar um repositório |
+| `OK` | Fazer commit, push e pull de e para o repositório |
+| `OK` | Reverter um commit |
+| `Re-visit` | Criar branches e pul requests |
+| `Re-visit` | Lidar com merge e conflitos |
+|**------**|**`HTTP - Fundamentos`**|
+|**------**|HTTP significa Hyper Text Transfer Protocol. A comunicação entre computadores cliente e servidores web é feita enviando solicitações HTTP e recebendo respostas HTTP.|
+| `pending` | Entender a diferença dos verbos HTTP |
+| `pending` | Testar os requests e ver os status codes no navegador |
+| `pending` | Saber fazer uma requisição HTTP na linha de comando com WGET |
+| `pending` | Baixar uma imagem com WGET |
+| `pending` | Fazer um post |
+|**------**|**`Js - JSON*`**|
+|**------**| JSON significa JavaScript Object Notation (notação de objeto JavaScript). É um formato de texto para armazenar e transmitir dados|
+| `OK` | Criar um objeto |
+| `OK` | Transformar um objeto em uma string |
+| `OK` | Transformar uma string em objeto |
+| `Re-visit` | Manipular um objeto |
+|**------**|**`Linha de comando - Fundamentos`**|
+|**------**|CLI é um programa de linha de comando que aceita entradas de texto para executar funções do sistema operacional.|
+| `pending` | Conhecer os principais comandos |
+**------**|**`Cloud - Fundamentos`**|
+**------**|Cloud, ou computação em nuvem é a distribuição de serviços de computação pela Internet usando um modelo de preço pago conforme o uso. Uma nuvem é composta de vários recursos de computação, que abrangem desde os próprios computadores (ou instâncias, na terminologia de nuvem) até redes, armazenamento, bancos de dados e o que estiver em torno deles. Ou seja, tudo o que normalmente é necessário para montar o equivalente a uma sala de servidores, ou mesmo um data center completo, estará pronto para ser utilizado, configurado e executado.|
+| `pending` | Conhecer a diferença entre IaaS, PaaS e SaaS |
+| `pending` | Conhecer os maiores provedores de cloud |
+| `pending` | Especializar-se em algum provedor |
+**------**|**`YARN`**|
+**------**|Yarn é um gerenciador de pacotes para seu código. Ele permite que você use e compartilhe código com outros desenvolvedores. O código é compartilhado por meio de algo chamado pacote (às vezes chamado de módulo). Um pacote contém todo o código que está sendo compartilhado, bem como um arquivo package.json que descreve o pacote.|
+| `pending` | Gerenciar pacotes |
+| `pending` | Gerenciar dependências |
+| `pending` | Instalação de pacotes offline |
+| `pending` | Comandos |
+| `pending` | Arquivo yarn.lock |
+**------**|**`Habilidade Auxiliar: UX e Design `**|
+**------**|**`Design Systems`**|
+**------**|Um Design Systems (sistema de design) é uma coleção de componentes reutilizáveis, guiados por padrões claros, que podem ser colocados juntos para construir aplicações.|
+| `pending` | Criar e manter bibliotecas que serão consumidas e usadas como padrão para a construção de um projeto |
+**------**|**`Design - Figma - Fundamentos`**|
+**------**|Figma é uma aplicação web colaborativa para design de interfaces. O conjunto de recursos do Figma se concentra na interface do usuário e no design da experiência do usuário, com ênfase na colaboração em tempo real, utilizando uma variedade de editores de gráficos vetoriais e ferramentas de prototipagem.|
+| `pending` | Criar layouts de páginas e componentes |
+**------**|**`Componentes de design`**|
+| `pending` | Conhecer os componentes descrevem um layout ou interface |
+**------**|**`Sistemas de cores`**|
+| `pending` | Definir uma paleta de cores que faça sentido para determinada interface |
+**------**|**`Como usar fontes`**|
+| `pending` | Escolher a fonte mais adequada para determinado projeto |
+|**------**|**`TypeScript - Framework - Angular - Nível 1`**|
+|**------**|Angular é uma framework de construção de aplicações e plataforma de desenvolvimento construído em TypeScript para criar aplicações eficientes e sofisticadas de página única (SPA).|
+| `pending` | Construir interfaces utilizando HTML, CSS e TypeScript |
+| `pending` | Criar aplicações SPA |
+| `pending` | Construir aplicações web, mobile ou desktop |
+| `pending` | Integrar dados com API’s REST |
+| `pending` | Utilizar a composição para criar componentes reutilizáveis |
+| `pending` | Utilizar serviços do tipo Resolver |
+| `pending` | Manipular requisições criando serviços do tipo Interceptor |
+|**------**|**`O pattern Observer`**|
+|**------**|**`O pattern Observer`**|
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
@@ -136,21 +195,8 @@
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
+
+
 
 
 

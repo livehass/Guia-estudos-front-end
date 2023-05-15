@@ -1,4 +1,4 @@
-## Guia de Estudos Front-End.
+<h1 align="center">Guia de Estudos Front-End.</h1>
 
 | Status | **Itens que estudo atualmente, direcionado para o framework angular:** |
 | :---:  | :---  |

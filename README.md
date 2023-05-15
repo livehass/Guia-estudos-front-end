@@ -1,22 +1,22 @@
 # Front-end
 
-   - Aprender quais tags são necessárias para um HTML básico
-   - Criar um parágrafo de texto
-   - Exibir uma imagem
-   - Conhecer a diferença entre 'h1', 'h2', 'h3', etc
-   - Criar um texto com hyperlink
-   - Criar um formulário com campos relevantes
-   - Criar uma lista de itens ordenada ou não ordenada
-   - Criar uma lista de itens dentro de uma lista suspensa (dropdown list)
-   - Conectar com um arquivo de CSS
-   - Criar uma tabela
-   - Adicionar IDs e classes
+   -[ ] Aprender quais tags são necessárias para um HTML básico
+   -[ ] Criar um parágrafo de texto
+   -[ ] Exibir uma imagem
+   -[ ] Conhecer a diferença entre 'h1', 'h2', 'h3', etc
+   -[ ] Criar um texto com hyperlink
+   -[ ] Criar um formulário com campos relevantes
+   -[ ] Criar uma lista de itens ordenada ou não ordenada
+   -[ ] Criar uma lista de itens dentro de uma lista suspensa (dropdown list)
+   -[ ] Conectar com um arquivo de CSS
+   -[ ] Criar uma tabela
+   -[ ] Adicionar IDs e classes
 - [ ] **CSS - Fundamentos**:   
-   - Aprender a estrutura visual de uma página, com 'margin' e 'padding'
-   - Estabelecer o tamanho com 'width' e 'height'
-   - Aprender sobre a posição de um elemento ('static', 'relative' ou 'absolute)
-   - Aprender sobre o 'display' de exibição de um elemento ('block', 'inline', 'inline-block')
-   - Aprender a posicionar imagens em relação ao texto
+   -[ ] Aprender a estrutura visual de uma página, com 'margin' e 'padding'
+   -[ ] Estabelecer o tamanho com 'width' e 'height'
+   -[ ] Aprender sobre a posição de um elemento ('static', 'relative' ou 'absolute)
+   -[ ] Aprender sobre o 'display' de exibição de um elemento ('block', 'inline', 'inline-block')
+   -[ ] Aprender a posicionar imagens em relação ao texto
    - Aprender sobre alinhamento
    - Aprender sobre estilo de fontes
    - Aprender as diferenças e vantagens de usar as diferentes unidades de medida em CSS (%, relativas, etc)

@@ -191,17 +191,22 @@
 | `pending` | Criar programas baseados em eventos |
 |**------**|**`Nível 2 - Angular - Templates`**|
 |**------**|Em Angular, templates são um modelo para um fragmento de uma interface de usuário (IU). Templates são escritos em HTML, e uma sintaxe especial pode ser usada dentro de um template para construir com base em muitas das características do Angular.|
-|**------**|**`Angular - Renderização*`**|
+|**------**|**`Angular - Renderização`**|
 |**------**|Uma aplicação Angular normal é executada no navegador, renderizando páginas no DOM em resposta às ações do usuário. A Angular Universal executa no servidor, gerando páginas de aplicação estática que mais tarde são inicializadas no cliente.|
 | `pending` | Exibir uma página Angular no navegador |
 | `pending` | Realizar renderização no lado do servidor |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
-| `pending` | Texto Aqui |
+|**------**|**`Angular - Services`**|
+|**------**|Um serviço é uma categoria ampla que engloba qualquer valor, função ou funcionalidade que uma aplicação necessite. Um serviço é tipicamente uma classe com um propósito conciso e bem definido. O Angular distingue componentes de serviços, para aumentar a modularidade e a reusabilidade.|
+| `pending` | Criar dados que estarão sempre disponíveis |
+| `pending` | Dividir a aplicação web em diversas partes |
+|**------**|**`Angular - Roteamento`**|
+| `pending` | Navegar até um componente |
+| `pending` | Incluir um parâmetro de rota |
+| `pending` | Controlar o fluxo de navegação do seu usuário com guarda de rotas |
+|**------**|**`Angular - CLI (Interface de Linha de Comando)`**|
+|**------**|A Interface de Linha de Comando (CLI) do Angular é uma ferramenta de interface de linha de comando que você utiliza para inicializar, desenvolver, estruturar e manter aplicações Angular diretamente de um shell de comando.|
+| `pending` | Aprender a sintaxe 'ng [argumento-opcional] [opções]' |
+| `pending` | Conhecer os comandos mais importantes, como 'ng add', 'ng build', 'ng update', 'ng deploy', 'ng new', 'ng test', entre outros |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |
 | `pending` | Texto Aqui |

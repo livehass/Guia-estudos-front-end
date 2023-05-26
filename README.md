@@ -42,7 +42,7 @@
 | `pending` |  Fazer chamadas assíncronas usando 'Async/Await', 'Promise', etc |
 |**------**|**`DOM  - O Document Object Model- Fundamentos:`**|
 | `OK` | Entender como funciona a árvore do DOM |
-| `Re-vist` | Acessar e manipular elementos do HTML e CSS |
+| `OK` | Acessar e manipular elementos do HTML e CSS |
 | `Re-vist` | Acessar os pais e filhos de um elemento|
 | `Re-vist` | Inserir um novo elemento na árvore |
 | `Re-vist` | Remover um elemento da árvore |

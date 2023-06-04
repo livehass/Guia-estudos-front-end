@@ -43,10 +43,10 @@
 |**------**|**`DOM  - O Document Object Model- Fundamentos:`**|
 | `OK` | Entender como funciona a árvore do DOM |
 | `OK` | Acessar e manipular elementos do HTML e CSS |
-| `Re-vist` | Acessar os pais e filhos de um elemento|
-| `Re-vist` | Inserir um novo elemento na árvore |
-| `Re-vist` | Remover um elemento da árvore |
-| `ok` | Esperar por um evento em certo elemento da página usando 'addEventListener()' |
+| `OK` | Acessar os pais e filhos de um elemento|
+| `OK` | Inserir um novo elemento na árvore |
+| `OK` | Remover um elemento da árvore |
+| `OK` | Esperar por um evento em certo elemento da página usando 'addEventListener()' |
 |**------**|**`Js - Acessibilidade em Javascript:`**|
 | `pending` | Escrever código com acessibilidade em mente |
 |**------**|**`Pages - Estratégias de SEO:`**|

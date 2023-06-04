@@ -48,7 +48,7 @@
 | `OK` | Remover um elemento da árvore |
 | `OK` | Esperar por um evento em certo elemento da página usando 'addEventListener()' |
 |**------**|**`Js - Acessibilidade em Javascript:`**|
-| `pending` | Escrever código com acessibilidade em mente |
+| `OK` | Escrever código com acessibilidade em mente |
 |**------**|**`Pages - Estratégias de SEO:`**|
 | `pending` | Escolher palavras-chave |
 | `pending` | Entender como o Google classifica páginas |

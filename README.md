@@ -55,12 +55,12 @@
 | `pending` | Conhecer os fatores de rankeamento |
 | `pending` | Fazer Link Building |
 |**------**|**`Pages - Design Responsivo:`**|
-| `ok` | Ajustar suas páginas para o tamanho da tela do usuário |
-| `ok` | Media queries |
-| `ok` | Conhecer o conceito de Mobile first |
+| `OK` | Ajustar suas páginas para o tamanho da tela do usuário |
+| `OK` | Media queries |
+| `OK` | Conhecer o conceito de Mobile first |
 |**------**|**`Nivel 2 -JavaScript - Callbacks e Promises:`**|
-| `pending` | Aprender em quais situações é necessário o uso de programação assíncrona |
-| `pending` | Fazer chamadas em APIs com `fetch()` |
+| `OK` | Aprender em quais situações é necessário o uso de programação assíncrona |
+| `OK` | Fazer chamadas em APIs com `fetch()` |
 **------**|**`Js -JavaScript - Testes:`**|
 | `pending` | Usar testes unitários |
 | `pending` | Usar testes de integração |

@@ -39,7 +39,7 @@
 | `OK` | Aprender o conceito de Orientação a Objetos |
 | `OK` | Fazer um CRUD |
 | `OK` | Obter dados de uma API |
-| `pending` |  Fazer chamadas assíncronas usando 'Async/Await', 'Promise', etc |
+| `OK` |  Fazer chamadas assíncronas usando 'Async/Await', 'Promise', etc |
 |**------**|**`DOM  - O Document Object Model- Fundamentos:`**|
 | `OK` | Entender como funciona a árvore do DOM |
 | `OK` | Acessar e manipular elementos do HTML e CSS |

@@ -71,7 +71,7 @@
 | `pending` | Saber quais os tipos de erros e em quais situações eles podem ocorrer |
 | `pending` | Entender como o Node.js faz o manejo de erros |
 | `OK` | Usar 'try' e 'catch' para tratamento de erros |
-| `pending` | Em que ocasiões e de que forma utilizar o `throw` |
+| `OK` | Em que ocasiões e de que forma utilizar o `throw` |
 | `pending` | Criar exceções específicas de acordo com a necessidade de sua aplicação |
 **------**|**`Js - JavaScript - ES6:`**|
 | `pending` | Conhecer as diferenças dessa versão do JavaScript |

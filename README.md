@@ -91,7 +91,7 @@
 | `pending` | Implementar as principais estruturas de dados |
 **------**|**`Js - Conceitos de Orientação a Objetos:`**|
 |**------**|  A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo. |
-| `pending` | Como funcionam objetos |
+| `OK` | Como funcionam objetos |
 | `pending` | Criar e utilizar construtores |
 | `pending` | O que são classes |
 | `pending` | Criar e utilizar métodos |

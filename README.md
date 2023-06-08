@@ -10,7 +10,7 @@
 | `OK` | Criar um texto com hyperlink |
 | `OK` | Criar um formulário com campos relevantes |
 | `OK` | Criar uma lista de itens ordenada ou não ordenada |
-| `pending` | Criar uma lista de itens dentro de uma lista suspensa (dropdown list) |
+| `OK` | Criar uma lista de itens dentro de uma lista suspensa (dropdown list) |
 | `OK` | Conectar com um arquivo de CSS |
 | `OK` | Criar uma tabela |
 | `OK` | Adicionar IDs e classes |
@@ -76,7 +76,7 @@
 **------**|**`Js - JavaScript - ES6:`**|
 | `pending` | Conhecer as diferenças dessa versão do JavaScript |
 **------**|**`Js - JavaScript - Modularização:`**|
-| `pending` | Isolar partes do código em módulos |
+| `OK` | Isolar partes do código em módulos |
 | `pending` | Usar import e export |
 **------**|**`Js - Versionamento Semântico para Front-end:`**|
 | `pending` | conjunto simples de regras e requisitos que ditam como os números de versão são atribuídos e incrementados |

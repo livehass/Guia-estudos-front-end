@@ -132,7 +132,7 @@
 | `OK` | Fazer commit, push e pull de e para o repositório |
 | `OK` | Reverter um commit |
 | `Re-visit` | Criar branches e pul requests |
-| `Re-visit` | Lidar com merge e conflitos |
+| `OK` | Lidar com merge e conflitos |
 |**------**|**`HTTP - Fundamentos`**|
 |**------**|HTTP significa Hyper Text Transfer Protocol. A comunicação entre computadores cliente e servidores web é feita enviando solicitações HTTP e recebendo respostas HTTP.|
 | `pending` | Entender a diferença dos verbos HTTP |

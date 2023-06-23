@@ -74,7 +74,7 @@
 | `OK` | Em que ocasiões e de que forma utilizar o `throw` |
 | `OK` | Criar exceções específicas de acordo com a necessidade de sua aplicação |
 **------**|**`Js - JavaScript - ES6:`**|
-| `pending` | Conhecer as diferenças dessa versão do JavaScript |
+| `OK` | Conhecer as diferenças dessa versão do JavaScript |
 **------**|**`Js - JavaScript - Modularização:`**|
 | `OK` | Isolar partes do código em módulos |
 | `pending` | Usar import e export |

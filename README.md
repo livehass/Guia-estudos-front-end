@@ -77,7 +77,7 @@
 | `OK` | Conhecer as diferenças dessa versão do JavaScript |
 **------**|**`Js - JavaScript - Modularização:`**|
 | `OK` | Isolar partes do código em módulos |
-| `pending` | Usar import e export |
+| `OK` | Usar import e export |
 **------**|**`Js - Versionamento Semântico para Front-end:`**|
 | `pending` | conjunto simples de regras e requisitos que ditam como os números de versão são atribuídos e incrementados |
 | `pending` | Organizar as dependências de um projeto |

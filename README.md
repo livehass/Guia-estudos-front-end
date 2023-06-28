@@ -73,8 +73,6 @@
 | `OK` | Usar 'try' e 'catch' para tratamento de erros |
 | `OK` | Em que ocasiões e de que forma utilizar o `throw` |
 | `OK` | Criar exceções específicas de acordo com a necessidade de sua aplicação |
-**------**|**`Js - JavaScript - ES6:`**|
-| `OK` | Conhecer as diferenças dessa versão do JavaScript |
 **------**|**`Js - JavaScript - Modularização:`**|
 | `OK` | Isolar partes do código em módulos |
 | `OK` | Usar import e export |

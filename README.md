@@ -107,7 +107,7 @@
 | `pending` |  Executar tarefas paralelamente |
 |**------**|**`Js - TypeScript - Fundamentos:`**|
 |**------**| TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript. |
-| `pending` | Entender a fundo o que são tipos e a importância da tipagem |
+| `OK` | Entender a fundo o que são tipos e a importância da tipagem |
 | `pending` | Aprender o que é o TypeScript, por que foi criado, como ele funciona e sua relação com o JavaScript |
 | `pending` | Conhecer as ferramentas do TypeScript (integração com o editor de código, verificador estático e compilador) |
 | `pending` | Escrever código em TypeScript com suas ferramentas (interfaces, enum, decorators, etc) |

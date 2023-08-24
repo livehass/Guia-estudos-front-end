@@ -1,4 +1,4 @@
-<h1 align="center">Guia de Estudos Front-End. JavaScrip e TypeScript/Angular</h1>
+<h1 align="center">Guia de Estudos Front-End. JavaScript e TypeScript/Angular</h1>
 
 | Status |**Marcadores: ✅Ok, ❌Pendente, 🟡Revisitar, 🔵Divisor de categorias.** | **Fonte** |
 | :---:  | :---:  | :---:  |

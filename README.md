@@ -6,33 +6,33 @@
 | `✅` | Aprender quais tags são necessárias para um HTML básico |[Fonte](https://www.w3schools.com/tags/)|
 | `✅` | Criar um parágrafo de texto |⬆️|
 | `✅` | Exibir uma imagem |[Fonte](https://www.w3schools.com/html/html_images.asp)|
-| `✅` | Conhecer a diferença entre 'h1', 'h2', 'h3', etc |[Fonte]()|
-| `✅` | Criar um texto com hyperlink |[Fonte](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements)|
-| `✅` | Criar um formulário com campos relevantes |[Fonte]()|
-| `✅` | Criar uma lista de itens ordenada ou não ordenada |[Fonte]()|
-| `✅` | Criar uma lista de itens dentro de uma lista suspensa (dropdown list) |[Fonte]()|
-| `✅` | Conectar com um arquivo de CSS |[Fonte]()|
-| `✅` | Criar uma tabela |[Fonte]()|
-| `✅` | Adicionar IDs e classes |[Fonte]()|
+| `✅` | Conhecer a diferença entre 'h1', 'h2', 'h3', etc |[Fonte](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements)|
+| `✅` | Criar um texto com hyperlink |[Fonte](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)|
+| `✅` | Criar um formulário com campos relevantes |[Fonte](https://developer.mozilla.org/pt-BR/docs/Learn/Forms/How_to_structure_a_web_form)|
+| `✅` | Criar uma lista de itens ordenada ou não ordenada |[Fonte](https://www.w3schools.com/html/html_lists.asp)|
+| `✅` | Criar uma lista de itens dentro de uma lista suspensa (dropdown list) |[Fonte](https://www.devmedia.com.br/criando-um-menu-vertical-dropdown-com-css-e-html/37207)|
+| `✅` | Conectar com um arquivo de CSS |[Fonte](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)|
+| `✅` | Criar uma tabela |[Fonte](https://www.w3schools.com/html/html_tables.asp)|
+| `✅` | Adicionar IDs e classes |[Fonte](https://www.w3schools.com/html/html_classes.asp)|
 |**🔵**|**`Css Cascading Style Sheets - Fundamentos:`**|
-| `✅` | Aprender a estrutura visual de uma página, com 'margin' e 'padding' |
-| `✅` | Estabelecer o tamanho com 'width' e 'height' |
-| `✅` | Aprender sobre a posição de um elemento ('static', 'relative' ou 'absolute) |
-| `✅` | Aprender sobre o 'display' de exibição de um elemento ('block', 'inline', 'inline-block') |
-| `✅` | Aprender a posicionar imagens em relação ao texto |
-| `✅` | Aprender sobre alinhamento |
-| `✅` | Aprender sobre estilo de fontes |
-| `✅` | Aprender as diferenças e vantagens de usar as diferentes unidades de medida em CSS (%, relativas, etc) |
-| `✅` | Conectar com os elementos (IDs, classes) de um arquivo HTML |
-| `✅` | Alterar características de um elemento quando o mouse passar por cima dele ('hover') |
-| `✅` | Aprender box-sizing |
-| `✅` | Aprender Flexbox |
-| `✅` | Aprender Grid |
-|**🔵**|**`JavaScript - Fundamentos:`**|
-| `✅` | Conhecer os tipos primitivos |
-| `✅` | Declarar variáveis, considerando a diferença entre 'var', 'let' e 'const' |
-| `✅` | Usar estruturas condicionais ('if', 'else') |
-| `✅` | Conhecer os operadores de comparação ('=', '==', '===') |
+| `✅` | Aprender a estrutura visual de uma página, com 'margin' e 'padding' |[Fonte](https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin)|
+| `✅` | Estabelecer o tamanho com 'width' e 'height' |[Fonte](https://www.w3schools.com/css/css_padding.asp)|
+| `✅` | Aprender sobre a posição de um elemento ('static', 'relative' ou 'absolute) |[Fonte](https://developer.mozilla.org/en-US/docs/Web/CSS/position)|
+| `✅` | Aprender sobre o 'display' de exibição de um elemento ('block', 'inline', 'inline-block')|[Fonte](https://dev.to/wps13/tipos-de-display-no-css-471n)|
+| `✅` | Aprender a posicionar imagens em relação ao texto |[Fonte](https://www.youtube.com/watch?v=Aqx3NYPzUaM)|
+| `✅` | Aprender sobre alinhamento |[Fonte]()|
+| `✅` | Aprender sobre estilo de fontes |[Fonte]()|
+| `✅` | Aprender as diferenças e vantagens de usar as diferentes unidades de medida em CSS (%, relativas, etc) |[Fonte]()|
+| `✅` | Conectar com os elementos (IDs, classes) de um arquivo HTML |[Fonte]()|
+| `✅` | Alterar características de um elemento quando o mouse passar por cima dele ('hover') |[Fonte]()|
+| `✅` | Aprender box-sizing |[Fonte]()|
+| `✅` | Aprender Flexbox |[Fonte]()|
+| `✅` | Aprender Grid |[Fonte]()|
+|**🔵**|**`JavaScript - Fundamentos:`**
+| `✅` | Conhecer os tipos primitivos |[Fonte]()|
+| `✅` | Declarar variáveis, considerando a diferença entre 'var', 'let' e 'const' |[Fonte]()|
+| `✅` | Usar estruturas condicionais ('if', 'else') |[Fonte]()|
+| `✅` | Conhecer os operadores de comparação ('=', '==', '===') |[Fonte]()|
 | `✅` | Usar estruturas de repetição e laços ('while', 'for') |
 | `✅` | Usar funções, passando parâmetros e argumentos |
 | `✅` | Manipular arrays e listas |

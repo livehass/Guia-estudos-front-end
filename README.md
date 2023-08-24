@@ -1,10 +1,10 @@
 <h1 align="center">Guia de Estudos Front-End.</h1>
 
-| Status | **Itens que estudo atualmente, direcionado para o framework angular:** |
-| :---:  | :---  |
-|**------**|**`HTML HyperText Markup Language - Fundamentos:`**|
-| `OK` | Aprender quais tags são necessárias para um HTML básico |
-| `OK` | Criar um parágrafo de texto |
+| Status | **Itens que estudo atualmente, direcionado para o framework angular:** | Fonte |
+| :---:  | :---:  | :---:  |
+|**🔵**|**`HTML HyperText Markup Language - Fundamentos:`**|[Fonte](https://www.w3schools.com/html/html_intro.asp)|
+| `✅` | Aprender quais tags são necessárias para um HTML básico |[Fonte](https://www.w3schools.com/tags/)|
+| `OK` | Criar um parágrafo de texto |⬆️|
 | `OK` | Exibir uma imagem |
 | `OK` | Conhecer a diferença entre 'h1', 'h2', 'h3', etc |
 | `OK` | Criar um texto com hyperlink |

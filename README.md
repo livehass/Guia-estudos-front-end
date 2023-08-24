@@ -1,12 +1,12 @@
 <h1 align="center">Guia de Estudos Front-End. JavaScrip e TypeScript/Angular</h1>
 
-| Status |**Marcadores: ✅Ok, ❌Pendente, 🟡Revisitar, 🔵Divisor de categorias, ⬆️Topicos em mesma Fonte** | **Fonte** |
+| Status |**Marcadores: ✅Ok, ❌Pendente, 🟡Revisitar, 🔵Divisor de categorias.** | **Fonte** |
 | :---:  | :---:  | :---:  |
 |**🔵**|**`HTML HyperText Markup Language - Fundamentos:`**|[Fonte](https://www.w3schools.com/html/html_intro.asp)|
 | `✅` | Aprender quais tags são necessárias para um HTML básico |[Fonte](https://www.w3schools.com/tags/)|
 | `✅` | Criar um parágrafo de texto |⬆️|
-| `✅` | Exibir uma imagem |
-| `✅` | Conhecer a diferença entre 'h1', 'h2', 'h3', etc |
+| `✅` | Exibir uma imagem |[Fonte](https://www.w3schools.com/html/html_images.asp)|
+| `✅` | Conhecer a diferença entre 'h1', 'h2', 'h3', etc |[Fonte]()|
 | `✅` | Criar um texto com hyperlink |
 | `✅` | Criar um formulário com campos relevantes |
 | `✅` | Criar uma lista de itens ordenada ou não ordenada |

@@ -7,13 +7,13 @@
 | `✅` | Criar um parágrafo de texto |⬆️|
 | `✅` | Exibir uma imagem |[Fonte](https://www.w3schools.com/html/html_images.asp)|
 | `✅` | Conhecer a diferença entre 'h1', 'h2', 'h3', etc |[Fonte]()|
-| `✅` | Criar um texto com hyperlink |
-| `✅` | Criar um formulário com campos relevantes |
-| `✅` | Criar uma lista de itens ordenada ou não ordenada |
-| `✅` | Criar uma lista de itens dentro de uma lista suspensa (dropdown list) |
-| `✅` | Conectar com um arquivo de CSS |
-| `✅` | Criar uma tabela |
-| `✅` | Adicionar IDs e classes |
+| `✅` | Criar um texto com hyperlink |[Fonte](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements)|
+| `✅` | Criar um formulário com campos relevantes |[Fonte]()|
+| `✅` | Criar uma lista de itens ordenada ou não ordenada |[Fonte]()|
+| `✅` | Criar uma lista de itens dentro de uma lista suspensa (dropdown list) |[Fonte]()|
+| `✅` | Conectar com um arquivo de CSS |[Fonte]()|
+| `✅` | Criar uma tabela |[Fonte]()|
+| `✅` | Adicionar IDs e classes |[Fonte]()|
 |**🔵**|**`Css Cascading Style Sheets - Fundamentos:`**|
 | `✅` | Aprender a estrutura visual de uma página, com 'margin' e 'padding' |
 | `✅` | Estabelecer o tamanho com 'width' e 'height' |

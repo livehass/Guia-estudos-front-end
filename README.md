@@ -1,6 +1,6 @@
 <h1 align="center">Guia de Estudos Front-End. JavaScrip e TypeScript/Angular</h1>
 
-| Status | **Itens marcados: ✅Ok, ❌Pendente, 🟡Revisitar, 🔵Divisor de categorias.** | **Fonte** |
+| Status |**Marcadores: ✅Ok, ❌Pendente, 🟡Revisitar, 🔵Divisor de categorias, ⬆️Topicos em mesma Fonte** | **Fonte** |
 | :---:  | :---:  | :---:  |
 |**🔵**|**`HTML HyperText Markup Language - Fundamentos:`**|[Fonte](https://www.w3schools.com/html/html_intro.asp)|
 | `✅` | Aprender quais tags são necessárias para um HTML básico |[Fonte](https://www.w3schools.com/tags/)|
